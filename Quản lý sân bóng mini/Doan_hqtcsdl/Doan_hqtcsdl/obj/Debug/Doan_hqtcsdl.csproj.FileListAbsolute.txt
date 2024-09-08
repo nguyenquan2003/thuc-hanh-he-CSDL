@@ -1,0 +1,13 @@
+E:\Doan_hqtcsdl\Doan_hqtcsdl\bin\Debug\Doan_hqtcsdl.exe.config
+E:\Doan_hqtcsdl\Doan_hqtcsdl\bin\Debug\Doan_hqtcsdl.exe
+E:\Doan_hqtcsdl\Doan_hqtcsdl\bin\Debug\Doan_hqtcsdl.pdb
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.csproj.AssemblyReference.cache
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.Form1.resources
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.Properties.Resources.resources
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.csproj.GenerateResource.cache
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.csproj.CoreCompileInputs.cache
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.exe
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.pdb
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.formTimKimKhachHang.resources
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.TraCuuSan.resources
+E:\Doan_hqtcsdl\Doan_hqtcsdl\obj\Debug\Doan_hqtcsdl.HoaDon.resources

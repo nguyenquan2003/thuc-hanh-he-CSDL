@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DoAn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=JONAS\SQLEXPRESS;Initial Catalog=QLSanBongMini;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="conStrUser01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=JONAS\SQLEXPRESS;Initial Catalog=QLSanBongMini;User ID=User01;Password=123;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
