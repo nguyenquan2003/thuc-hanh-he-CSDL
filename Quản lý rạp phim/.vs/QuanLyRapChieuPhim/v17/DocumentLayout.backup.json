@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlyphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlyphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlyphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlyphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|e:\\code sinh vien nam 4\\giupchitrang\\quanlyrapchieuphim\\quanlyrapchieuphim\\admin\\qlnhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\qlnhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlysuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlysuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlyphim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlyphim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbanve\\nvbanvehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbanve\\nvbanvehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbanve\\dsvedadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbanve\\dsvedadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbanve\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbanve\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbandoan\\huydon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbandoan\\huydon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbandoan\\datdoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbandoan\\datdoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\qlnhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\qlnhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\quanlynhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\quanlynhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbanve\\datve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbanve\\datve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\nhanvienbanve\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B097C74-0249-4715-B977-FB898C11F8EF}|QuanLyRapChieuPhim\\QuanLyRapChieuPhim.csproj|solutionrelative:quanlyrapchieuphim\\nhanvienbanve\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\quanlyrapchieuphim\\admin\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyPhim.Designer.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.Designer.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.Designer.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:33:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyPhim.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs [Design]*",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DBConnect.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\DBConnect.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DBConnect.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\DBConnect.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLySuatChieu.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLySuatChieu.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLySuatChieu.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLySuatChieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\ThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\ThongKeDoanhThu.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\ThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLNHANVIENn.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs [Design]",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:36:47.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DsVeDaDat.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DsVeDaDat.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanVe\\DsVeDaDat.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DsVeDaDat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyPhim.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs*",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QuanLyPhim.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:31:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\Profile.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\Profile.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NvBanVeHome.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\NvBanVeHome.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanVe\\NvBanVeHome.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\NvBanVeHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatVe.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HuyDon.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanDoAn\\HuyDon.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanDoAn\\HuyDon.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanDoAn\\HuyDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatDoAn.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanDoAn\\DatDoAn.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanDoAn\\DatDoAn.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanDoAn\\DatDoAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QLNHANVIENn.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QLNHANVIENn.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAADgv+wAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:54:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\TrangChu.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:52:53.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\TRANG\\Desktop\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:05:33.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\DangNhap.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DangNhap.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\DangNhap.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:05:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddNhanVien.cs [Design]",
+              "DocumentMoniker": "F:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs",
+              "ToolTip": "E:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-29T05:37:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddNhanVien.cs",
+              "DocumentMoniker": "F:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs",
+              "ToolTip": "F:\\HQTCSDL\\BaoCaoDoAn_QuanLyRCP\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AddNhanVien.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuanLyNhanVien.Designer.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.Designer.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.Designer.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\QuanLyNhanVien.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Program.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Program.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\DataProvider.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\DataProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Function.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Function.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Function.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminHome.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\Admin\\AdminHome.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatVe.Designer.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.Designer.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.Designer.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatVe.cs",
+              "DocumentMoniker": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "RelativeDocumentMoniker": "QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "ToolTip": "E:\\Code Sinh Vien Nam 4\\GIupChiTrang\\QuanLyRapChieuPhim\\QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "RelativeToolTip": "QuanLyRapChieuPhim\\NhanVienBanVe\\DatVe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:37:48.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

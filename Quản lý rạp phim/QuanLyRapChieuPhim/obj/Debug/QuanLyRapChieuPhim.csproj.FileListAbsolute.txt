@@ -1,0 +1,99 @@
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe.config
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Properties.Resources.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.exe
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.pdb
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DangNhap.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.AdminHome.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyNhanVien.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhim.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLySuatChieu.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanDoAn.HuyDon.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DatVe.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanVe.NvBanVeHome.resources
+C:\Users\Admin\Documents\TaiLieuBaiHoc\HeQuanTri_CSDL\zDoAn\zDoAnMoi\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.ThongKeDoanhThu.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhongChieu.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DangNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.AdminHome.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanDoAn.HuyDon.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DatVe.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanVe.NvBanVeHome.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhim.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLySuatChieu.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.ThongKeDoanhThu.resources
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.exe
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.pdb
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe.config
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe
+C:\Users\ADMIN\Downloads\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.pdb
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe.config
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.pdb
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.AssemblyReference.cache
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.AddNhanVien.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DangNhap.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.AdminHome.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanDoAn.HuyDon.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DatVe.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanVe.NvBanVeHome.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Properties.Resources.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyNhanVien.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhim.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLySuatChieu.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.ThongKeDoanhThu.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.GenerateResource.cache
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.CoreCompileInputs.cache
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.exe
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.pdb
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.Profile.resources
+E:\HQTCSDL\BaoCaoDoAn_QuanLyRCP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.TrangChu.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe.config
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.pdb
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.Profile.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.QLNHANVIENn.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.TrangChu.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DangNhap.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.AdminHome.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanDoAn.HuyDon.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DatVe.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanVe.NvBanVeHome.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Properties.Resources.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyNhanVien.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhim.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLySuatChieu.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.ThongKeDoanhThu.resources
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.GenerateResource.cache
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.exe
+C:\Users\TRANG\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.pdb
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe.config
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.exe
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\bin\Debug\QuanLyRapChieuPhim.pdb
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.AssemblyReference.cache
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.Profile.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.QLNHANVIENn.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Admin.TrangChu.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DangNhap.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.AdminHome.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanDoAn.HuyDon.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.DatVe.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.NhanVienBanVe.NvBanVeHome.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.Properties.Resources.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyNhanVien.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLyPhim.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.QuanLySuatChieu.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.ThongKeDoanhThu.resources
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.GenerateResource.cache
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.csproj.CoreCompileInputs.cache
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.exe
+E:\Code Sinh Vien Nam 4\GIupChiTrang\QuanLyRapChieuPhim\QuanLyRapChieuPhim\obj\Debug\QuanLyRapChieuPhim.pdb
